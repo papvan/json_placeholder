@@ -16,5 +16,55 @@
             "id": 4,
             "title": "Project Name"
         }
+    ],
+    "accesses": [
+        {
+            "id": 1,
+            "project_id": 1,
+            "title": "DB Connection",
+            "description": "<p>DB: Pass: paswword</p><p>Username: username</p>"
+        },
+        {
+            "id": 2,
+            "project_id": 1,
+            "title": "SSH Connection",
+            "description": "<p>SSH: Pass: paswword</p><p>Username: username</p>"
+        },
+        {
+            "id": 3,
+            "project_id": 2,
+            "title": "DB Connection",
+            "description": "<p>DB: Pass: paswword</p><p>Username: username</p>"
+        },
+        {
+            "id": 4,
+            "project_id": 2,
+            "title": "SSH Connection",
+            "description": "<p>SSH: Pass: paswword</p><p>Username: username</p>"
+        },
+        {
+            "id": 5,
+            "project_id": 3,
+            "title": "DB Connection",
+            "description": "<p>DB: Pass: paswword</p><p>Username: username</p>"
+        },
+        {
+            "id": 6,
+            "project_id": 4,
+            "title": "SSH Connection",
+            "description": "<p>SSH: Pass: paswword</p><p>Username: username</p>"
+        },
+        {
+            "id": 7,
+            "project_id": 4,
+            "title": "DB Connection",
+            "description": "<p>DB: Pass: paswword</p><p>Username: username</p>"
+        },
+        {
+            "id": 8,
+            "project_id": 3,
+            "title": "SSH Connection",
+            "description": "<p>SSH: Pass: paswword</p><p>Username: username</p>"
+        },
     ]
 }
